@@ -1,0 +1,8 @@
+{
+  "isCheck" => true,
+  "checkCause" => "wait",
+  "checkCause_list" => [
+    "wait" => "임시점검중입니다...",
+    "custom" => ""
+  ]
+}
