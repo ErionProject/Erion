@@ -1,7 +1,7 @@
 {
-  "isCheck": "false",
+  "isCheck": "true",
   "checkCause": "wait",
-  "checkTime": "2016/11/15 18:00 ~ 미정",
+  "checkTime": "2016/11/17 18:50 ~ 미정",
   "checkCause_list": {
     "wait": "임시점검중입니다...",
     "custom": ""
